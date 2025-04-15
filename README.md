@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About Me
+## About Me
 
 My Name is Kashaan. I did BS in Chemical Engineering and I am interested in 🖥️ back-end development and front-end development.
 
@@ -30,7 +30,20 @@ My Name is Kashaan. I did BS in Chemical Engineering and I am interested in 🖥
   </a>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+## 🪖 Some Projects:
+#### Frontend
+- [Easy Arabic Grammar](https://easyarabicgrammar.netlify.app)
+- [Landing Page](https://wakanda-page.vercel.app/)
+- [Data Visualization with D3](https://kashaan-m.github.io/GDP-Bar-Chart/dist/)
+- [Color Generator App](https://color-generator-app-kashaan.netlify.app/)
+
+#### Backend
+- [url-shortener-app](https://github.com/Kashaan-M/url-shortener-app)
+- [local-library](https://github.com/Kashaan-M/express-locallibrary)
+- [Django Polls App](https://github.com/Kashaan-M/django-polls-app)
+  
+
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
