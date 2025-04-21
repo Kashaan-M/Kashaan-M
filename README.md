@@ -38,6 +38,7 @@ My Name is Kashaan. I did BS in Chemical Engineering and I am interested in 🖥
 - [Color Generator App](https://color-generator-app-kashaan.netlify.app/)
 
 #### Backend
+- [Blog ](https://github.com/Kashaan-M/firstblog)(frontend + backend)
 - [url-shortener-app](https://github.com/Kashaan-M/url-shortener-app)
 - [local-library](https://github.com/Kashaan-M/express-locallibrary)
 - [Django Polls App](https://github.com/Kashaan-M/django-polls-app)
